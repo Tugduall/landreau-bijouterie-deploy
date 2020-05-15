@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2109fc"],{b94c:function(t,e,n){"use strict";n.r(e);var c=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[n("b-row",[n("b-col",{attrs:{sm:"12"}},[n("h2",[t._v("CONDITIONS GÉNÉRALES D'UTILISATION DU SITE")])]),n("b-col",{attrs:{sm:"12"}},[n("h4",{staticClass:"text-center"},[t._v("CGU en cours de rédaction")])])],1)],1)},s=[],r={name:"Cgu"},a=r,l=n("2877"),o=Object(l["a"])(a,c,s,!1,null,null,null);e["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d2109fc.43d07328.js.map
